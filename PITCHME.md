@@ -440,7 +440,7 @@ user.posts.unscoped.published.to_sql
 
 ---
 
-## バックエンドエンジニア募集中!
+### バックエンドエンジニア募集中!
 
 https://www.wantedly.com/projects/99060
 
