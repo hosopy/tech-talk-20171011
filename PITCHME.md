@@ -16,6 +16,10 @@
 
 ## 会社紹介
 
+![Galapagos Inc.](assets/images/company.png)
+
+https://www.glpgs.com
+
 ---
 
 ## スマートフォンアプリの開発
