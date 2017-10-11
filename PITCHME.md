@@ -448,5 +448,5 @@ https://www.wantedly.com/projects/99060
 
 ## ご清聴ありがとうございました
 
-## 本日のスライド
-### https://gitpitch.com/hosopy/tech-talk-20171011
+### 本日のスライド
+#### https://gitpitch.com/hosopy/tech-talk-20171011
