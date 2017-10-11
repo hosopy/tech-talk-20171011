@@ -399,9 +399,9 @@ user.posts.unscoped.published.to_sql
 ```
 
 @[1-5](deletedを条件から外したい)
-@[1-6](unscopedしてしまえ！)
-@[1-7](全Relationが解除されてuser_idの条件が消える)
-@[7-10](脳内ではこれを期待していた...)
+@[1-7](unscopedしてしまえ！)
+@[1-8](全Relationが解除されてuser_idの条件が消える)
+@[7-12](脳内ではこれを期待していた...)
 
 ---
 
