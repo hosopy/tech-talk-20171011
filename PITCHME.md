@@ -22,7 +22,7 @@
 
 iOS・Android・バックエンド
 
-![Company App](assets/images/company_app.png)
+![Company App](assets/images/company_app.jpg)
 
 ---
 
