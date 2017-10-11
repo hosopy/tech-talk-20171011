@@ -3,5 +3,5 @@
 }
 
 .reveal img {
-  border: none;
+  border: none !important;
 }
