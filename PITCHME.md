@@ -14,6 +14,26 @@
 
 ---
 
+## 会社紹介
+
+---
+
+## スマートフォンアプリの開発
+
+iOS・Android・バックエンド
+
+![Company App](assets/images/company_app.png)
+
+---
+
+## デザインアシスタントAI
+
+深層学習をデジタルクリエイティブに応用する研究開発
+
+![Company AI](assets/images/company_ai.png)
+
+---
+
 ## 今日話すこと
 
 * O/Rマッパーに関連したやらかし話
@@ -437,12 +457,6 @@ user.posts.unscoped.published.to_sql
 
 * 主キーについて考えよう
 * ステージング環境のDBは本番相当規模にしておこう
-
----
-
-### バックエンドエンジニア募集中!
-
-https://www.wantedly.com/projects/99060
 
 ---
 
