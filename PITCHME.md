@@ -440,4 +440,13 @@ user.posts.unscoped.published.to_sql
 
 ---
 
+## バックエンドエンジニア募集中!
+
+https://www.wantedly.com/projects/99060
+
+---
+
 ## ご清聴ありがとうございました
+
+## 本日のスライド
+### https://gitpitch.com/hosopy/tech-talk-20171011
