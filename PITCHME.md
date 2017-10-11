@@ -28,7 +28,7 @@ iOS・Android・バックエンド
 
 ## デザインアシスタントAI
 
-深層学習をデジタルクリエイティブに応用する研究開発
+深層学習✕デジタルクリエイティブの研究開発
 
 ![Company AI](assets/images/company_ai.png)
 
