@@ -1,8 +1,11 @@
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-  text-transform: none !important;
+@import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
+
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, Meiryo, sans-serif;
+  text-transform: none;
 }
 
 .reveal section img {
-  border: none !important;
-  box-shadow: none !important;
+  border: 0;
+  box-shadow: none;
 }
